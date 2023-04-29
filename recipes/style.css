@@ -1,0 +1,22 @@
+h1,
+.picture,
+.description{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.picture img{
+    width: 300px;
+}
+
+.description{
+    max-width: 1068px;
+    text-align: center;
+}
+
+.recipe{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
